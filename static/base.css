@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@500&display=swap');
+
+html {
+    font-family: 'Gluten', cursive;
+}
+
+body {
+    margin: 0;
+    background-color: #1a1a1a;
+}
